@@ -1,10 +1,9 @@
-#Reymark's CCM101 Repository
+# Laboratory 01
 
-##Name
-Reymark J. Mendaros
+**Name:** Reymark Mendaros  
+**Course:** Bachelor of Science in Information Technology (BSIT)  
+**Section:** BSIT 4F  
 
-##Course and Section
-Bachelor of Science in Information Technology Section: BSIT 4F
+## Description
 
-##Description
-A centralized repository for organizing and preserving my CCM101 coursework, hands-on activities, and project developments throughout the semester.
+This repository contains my Laboratory 01 activities, exercises, and outputs.
