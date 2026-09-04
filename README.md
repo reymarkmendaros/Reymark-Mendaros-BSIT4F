@@ -1,4 +1,4 @@
-# Reymark's CCM101 Repository
+# CCM101-Mendaros
 
 **Name:** Reymark Mendaros  
 **Course:** Bachelor of Science in Information Technology (BSIT)  
