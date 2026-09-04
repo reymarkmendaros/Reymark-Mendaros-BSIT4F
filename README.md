@@ -5,4 +5,4 @@
 **Section:** BSIT 4F  
 
 ## Description
-This repository contains my Laboratory 01 activities, exercises, and outputs.
+This repository contains my Laboratory activities, exercises, and outputs.
